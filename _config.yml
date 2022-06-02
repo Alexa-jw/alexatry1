@@ -23,6 +23,7 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
+  - {name: 'Become a Volunteer', link: '/Volunteer'}
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
